@@ -1,0 +1,7 @@
+/backup
+/workspace/secrets
+/workspace/docs
+
+/workspace/tools/*
+!.gitkeep
+
