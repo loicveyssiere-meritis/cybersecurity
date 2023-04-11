@@ -24,4 +24,4 @@ fi
 $SUDO apt-get install -y ssh net-tools curl wget telnet nmap tcpdump netcat
 
 # Tools
-$SUDO apt-get intall -y perl smbclient ftp
+$SUDO apt-get intall -y perl smbclient ftp nfs-common default-mysql-client

@@ -10,7 +10,8 @@ $SUDO apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys ED444FF0
 $SUDO apt-get update
 
 # Exploit
-$SUDO apt-get install -y hydra wordlists #kali-tools-top10
+$SUDO apt-get install -y hydra wordlists
+#kali-tools-top10
 
 # Install enum4linux -----------------------------------------------------------
 VERSION="0.8.9"

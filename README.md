@@ -39,3 +39,8 @@ Run a VPN inside the container. For TryHAckMe exercises for instance!
 ```bash
 ./scripts/vpn
 ```
+
+## To fix
+
+Version of openVPN 2.6 is deprecated. Run first ./vpn.sh before install other
+things. To be fixed using apropriate sources.
